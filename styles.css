@@ -1,0 +1,10 @@
+.header{
+  font-weight: bold;
+  color:red;
+  font-size: 21px;
+}
+.paragraph{
+  font-style: italic;
+  color:blue;
+  font-size:14px;
+}
